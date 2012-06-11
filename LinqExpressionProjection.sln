@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressionProjection", "LinqExpressionProjection\LinqExpressionProjection.csproj", "{DD149C86-76EE-40EF-80F0-4055EE0AD8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressionProjection.Test", "LinqExpressionProjection.Test\LinqExpressionProjection.Test.csproj", "{C8FC2631-8BB0-4BEA-AB92-1D3A618D98B3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs08
+		SccProjectUniqueName0 = LinqExpressionProjection\\LinqExpressionProjection.csproj
+		SccProjectName0 = LinqExpressionProjection
+		SccLocalPath0 = LinqExpressionProjection
+		SccProjectUniqueName1 = LinqExpressionProjection.Test\\LinqExpressionProjection.Test.csproj
+		SccProjectName1 = LinqExpressionProjection.Test
+		SccLocalPath1 = LinqExpressionProjection.Test
+		SccLocalPath2 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD149C86-76EE-40EF-80F0-4055EE0AD8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD149C86-76EE-40EF-80F0-4055EE0AD8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD149C86-76EE-40EF-80F0-4055EE0AD8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD149C86-76EE-40EF-80F0-4055EE0AD8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FC2631-8BB0-4BEA-AB92-1D3A618D98B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FC2631-8BB0-4BEA-AB92-1D3A618D98B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FC2631-8BB0-4BEA-AB92-1D3A618D98B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FC2631-8BB0-4BEA-AB92-1D3A618D98B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
