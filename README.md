@@ -27,3 +27,5 @@ select new
 ```
 
 Make sure the selection expression ``<TIn>`` is of the same type as the projection (``Select()`` call) lambda parameter
+
+##### 4/2017 migrated from CodePlex, as they are closing down
